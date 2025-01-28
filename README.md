@@ -1,2 +1,2 @@
 # Harmony
-A notification system
+A social network ... that's for just you.
