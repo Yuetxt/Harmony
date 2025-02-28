@@ -57,5 +57,5 @@ Harmony uses a microservices architecture with the following components:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
