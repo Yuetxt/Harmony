@@ -11,15 +11,6 @@ Harmony aims to solve the following problems:
 - **Channel Management**: Intelligent delivery based on user preferences and notification priority
 - **Analytics & Insights**: Tracks delivery and engagement across all channels
 
-## Features
-
-- **Unified API**: Single interface for sending notifications through multiple channels
-- **Multi-Channel Support**: Email, SMS, Push, and In-App messaging
-- **Intelligent Routing**: Selects the optimal channel based on notification type and user preferences
-- **Rate Limiting & Batching**: Prevents notification fatigue
-- **Delivery Tracking**: Monitors notification delivery status
-- **Scalable Architecture**: Built to handle high volumes with horizontal scaling
-
 ## Getting Started
 
 ### Prerequisites
